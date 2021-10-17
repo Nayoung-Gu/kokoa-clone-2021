@@ -44,3 +44,8 @@
     font-size: 25px;
     color: whitesmoke;
 }
+
+.more-suggestions__icon-img img {
+    width: 45px;
+    height: 45px;
+}

@@ -46,6 +46,8 @@
     border-color: var(--yellow);
 }
 
+
+
 #login-form input[type="submit"] {
     background-color: var(--yellow);
     cursor: pointer;    
@@ -58,4 +60,17 @@
     text-decoration: none;
     color:inherit;
     font-size: 13px;
+}
+
+#login-form a:hover {
+    opacity: 0.4;;
+}
+
+#login-form input[type="submit"]:hover {
+    background-color: rgb(219, 197, 72);
+}
+
+#login-form input[type="submit"]:focus {
+    background-color: rgb(139, 125, 44);
+    color: whitesmoke;
 }

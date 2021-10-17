@@ -199,7 +199,8 @@
 
 .reply__column input:focus {
     width: 93vw;
-    transform: translateX(-8%) translateY(-80px);
+    box-sizing: border-box;    
+    transform: translateX(-9%) translateY(-80px);
 }
 
 .reply:focus-within {
