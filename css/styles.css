@@ -10,6 +10,7 @@
 @import "components/icon-raw.css";
 @import "components/alt-header.css";
 @import "components/no-mobile.css";
+@import "components/landscape.css";
 /* screens */
 @import "screens/login.css";
 @import "screens/friends.css";

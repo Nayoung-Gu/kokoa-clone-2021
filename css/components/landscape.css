@@ -1,10 +1,13 @@
-@media (orienation: landscape) {
-    .landscape {
+.landscape {
         background-color: var(--yellow);
         display: flex;
         top:0;
         justify-content: center;
         align-items: center;
-        font-size: 32px;
-        }
+        font-size: 50px;
+}
+
+@media (orienation: portrait) {
+    .landscape {
+        display: none;
 }
