@@ -1,0 +1,46 @@
+.user-component__text i {
+    color: red;
+    margin-left: 3px;
+    opacity: 0.55;
+}
+
+.more-screen .icon-row {
+    margin: 50px 0;
+}
+
+.more-suggestions {
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 30px;
+}
+
+.more-suggestions__title {
+    margin-bottom: 20px;
+}
+
+.more-suggestions__icons {
+    display: flex;
+}
+
+.more-suggestions__icon {
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.more-suggestions__icon-img {
+    width: 60px;
+    height: 60px;
+    background-color: var(--yellow);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.more-suggestions__icon-img i{
+    font-size: 25px;
+    color: whitesmoke;
+}
