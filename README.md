@@ -23,5 +23,5 @@
 <br>
 
 ## 실제 구현 화면
-![image](https://user-images.githubusercontent.com/80025366/163707248-a3c8cb20-0cbe-4fba-a2ce-4a9b4913467c.png)
+![image](https://user-images.githubusercontent.com/80025366/163709233-0ba76c0f-ebd2-4872-8211-79487bc31db9.png)
 
