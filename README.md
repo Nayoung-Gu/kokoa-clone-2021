@@ -22,6 +22,6 @@
 - 헤더의 시간을 js를 활용해 실시간으로 불러오는 기능,  WebSockets, SocketIO, WebRTC 등을 활용해 실제 실시간 채팅 기능을 앞으로 추가 구현해보고 싶다. 
 <br>
 
-## 실제 구현 화면
+## 🔎 실제 구현 화면
 ![image](https://user-images.githubusercontent.com/80025366/163709233-0ba76c0f-ebd2-4872-8211-79487bc31db9.png)
 
